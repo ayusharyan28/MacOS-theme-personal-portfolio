@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { MacOSWindow } from './MacOSWindow';
 import { Globe } from 'lucide-react';
-
+ 
 export function LanguagesSection() {
   const languages = [
     { name: 'English', level: 'Fluent', percentage: 90 },
