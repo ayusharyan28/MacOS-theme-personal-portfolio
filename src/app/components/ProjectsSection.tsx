@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { MacOSWindow } from './MacOSWindow';
 import { Github, ExternalLink } from 'lucide-react';
-
+ 
 export function ProjectsSection() {
   const projects = [
     {
