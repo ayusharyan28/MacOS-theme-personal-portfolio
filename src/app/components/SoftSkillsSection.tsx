@@ -11,7 +11,7 @@ export function SoftSkillsSection() {
     { name: 'Continuous Learning', icon: BookOpen, color: 'from-pink-400 to-pink-600' },
     { name: 'Attention to Detail', icon: Eye, color: 'from-indigo-400 to-indigo-600' },
   ];
-
+ 
   return (
     <section id="soft-skills" className="min-h-screen flex items-center justify-center p-4 py-20">
       <div className="max-w-4xl w-full">
