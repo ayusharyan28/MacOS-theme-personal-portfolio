@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 export function Dock() {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
-
+ 
   const dockItems = [
     { icon: Home, label: 'Home', section: 'hero' },
     { icon: User, label: 'About', section: 'about' },
