@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { MacOSWindow } from './MacOSWindow';
-import profileImage from 'figma:asset/bae321e155bfbb0d6e0ce04471257e9976433de0.png';
+import profileImage from '../../mypic.png';
 
 export function HeroSection() {
   const scrollToSection = (id: string) => {
