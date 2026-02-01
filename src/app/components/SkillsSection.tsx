@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { MacOSWindow } from './MacOSWindow';
 import { Cloud, Container, Repeat, BarChart3, Shield, GitBranch, Terminal } from 'lucide-react';
-
+ 
 export function SkillsSection() {
   const skillGroups = [
     {
