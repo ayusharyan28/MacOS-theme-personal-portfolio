@@ -10,7 +10,7 @@ import { ProjectsSection } from '@/app/components/ProjectsSection';
 import { ContactSection } from '@/app/components/ContactSection';
 import { Dock } from '@/app/components/Dock';
 import { Toaster } from 'sonner';
-
+ 
 export default function App() {
   const [currentTime, setCurrentTime] = useState('');
 
