@@ -7,7 +7,7 @@ interface MacOSWindowProps {
   className?: string;
   showControls?: boolean;
 }
-
+ 
 export function MacOSWindow({ title, children, className = '', showControls = true }: MacOSWindowProps) {
   return (
     <motion.div
