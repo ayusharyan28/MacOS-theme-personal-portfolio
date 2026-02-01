@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { MacOSWindow } from './MacOSWindow';
 import { GraduationCap, Calendar } from 'lucide-react';
-
+ 
 export function EducationSection() {
   const education = [
     {
